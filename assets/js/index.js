@@ -1,10 +1,10 @@
-// TODO: Include packages needed for this application
+// Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('../utils/generateMarkdown.js');
 
 
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
 const questions = [ 
   {
     type: 'input',
@@ -87,12 +87,12 @@ const questions = [
 {
     type: 'input',
     name: 'github',
-    message: 'Please enter your github profile username and github link:',
+    message: 'Please enter your github profile username:',
     validate: githubInput => {
         if (githubInput) {
             return true;
         } else {
-            console.log('Error: Please provide github profile username and link: ');
+            console.log('Error: Please provide github profile username: ');
             return false;
         }
     }
@@ -114,7 +114,7 @@ const questions = [
     type: 'list',
     name: 'licenses',
     message: 'Please provide licenses for this application',
-    choices: ['MIT', 'GPL', 'ISC'],
+    choices: ['MIT', 'GNU GPL 3.0', 'Apache', 'none'],
     validate: licensesInput => {
         if (licensesInput) {
             return true;
@@ -128,7 +128,7 @@ const questions = [
 ];
 
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 // function writeToFile - this writes the answer[input] into the file
 const writeToFile = answer => {
     return new Promise((resolve, reject) => {
