@@ -11,8 +11,8 @@
   * [Github](#github)
   * [Email Address](#email)
   * [Licenses](#licenses)
-  * [Video of Deployed Application](#Video of Deployed Application)
-  * [Screenshot of the application](#Screenshot of Deployed Application)
+  * [Video](#Video)
+  * [Screenshot](#Screenshot)
 
   
   ## Description
@@ -39,9 +39,9 @@
 
 
 
-## Video of Deployed Application
-Watch this [video] (https://drive.google.com/file/d/1U544OObnZpwOjp9kPlgyL3LMRajMYbne/view ) to see how the README Generator works behind the scenes.
+  ## Video
+   Watch this [video] (https://drive.google.com/file/d/1U544OObnZpwOjp9kPlgyL3LMRajMYbne/view ) to see how the README Generator works behind the scenes.
 
-## Screenshot of the application
+  ## Screenshot
 
-https://github.com/DalPenny/readmegenerator/blob/aadf2195a215385b98e548f083092f4d0769c7e4/assets/images/screenshot.jpg
+    https://github.com/DalPenny/readmegenerator/blob/aadf2195a215385b98e548f083092f4d0769c7e4/assets/images/screenshot.jpg
