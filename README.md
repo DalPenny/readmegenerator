@@ -3,15 +3,15 @@
 Professional README Generator
 MIT license
 
-Table of Contents
-Description
-Installation
-Usage
-Contributing
-Tests
-Github
-Email Address
-Licenses
+## Table of Contents
+## Description
+## Installation
+## Usage
+## Contributing
+## Tests
+## Github
+## Email Address
+## Licenses
 
 ## Description
 USER STORY:
