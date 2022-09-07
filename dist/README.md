@@ -1,4 +1,4 @@
-# Professional Readme Generator
+# Professional README Generator
 
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
@@ -20,18 +20,18 @@
   Install node.js and the npm inquirer package, as well as vscode
 
   ## Usage
-  Run node index.js and follow the prompts
+  Run node index.js in the terminal and follow the prompts
   ## Licenses
   This project is covered under the MIT license. Please click on the license button to get more info.
   
   ## Contributing
-  Add any contributions that you can make for this project
+  add any contributions that you can make for this project
   
   ## Tests
-   Run node index.js and follow the prompts again in the VScode terminal
+  In the VSCode terminal, right click on the desired file and open in terminal, Run node index.js and follow the prompts in the terminal
   
   ## Github
   Have questions about this project?  
-  GitHub: https://github.com/DalPenny  
+  GitHub: https://github.com//Dalpenny  
   Email: dalpenny@github.io.com
 
