@@ -1,17 +1,18 @@
 # Professional README Generator
 
 Professional README Generator
-MIT license
+MIT license [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-## Table of Contents
-### . Description
-### . Installation
-### . Usage
-### . Contributing
-### . Tests
-### . Github
-### . Email Address
-### . Licenses
+
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Github](#github)
+  * [Email Address](#email)
+  * [Licenses](#licenses)
 
 ## Description
 USER STORY:
@@ -43,28 +44,30 @@ THEN I am taken to the corresponding section of the README
 
 The motivation to build this project was to learn how to use node.js and the inquirer package
 
-## Installation
-
-Install node.js and the npm inquirer package, as well as VSCode, js
-Once application is tested, deploy to github
 
 
-## Usage
-run node index.js in the terminal and follow the prompts
+  ## Description
+  This project will generate a README file that you can use
 
-## Licenses
-This project is covered under the MIT license. Please click on the license button to get more info.
+  ## Installation
+  Install node.js and the npm inquirer package, as well as vscode
 
-## Contributing
-add any contributions you can think of to this project
+  ## Usage
+  Run node index.js in the terminal and follow the prompts
+  ## Licenses
+  This project is covered under the MIT license. Please click on the license button to get more info.
+  
+  ## Contributing
+  add any contributions that you can make for this project
+  
+  ## Tests
+  In the VSCode terminal, right click on the desired file and open in terminal, Run node index.js and follow the prompts in the terminal
+  
+  ## Github
+  Have questions about this project?  
+  GitHub: https://github.com//Dalpenny  
+  Email: dalpenny@github.io.com
 
-## Tests
-In the VSCode terminal, right click on the desired file and open in terminal, Run node index.js and follow the given prompts
-
-## Github
-Have questions about this project?
-GitHub: https://github.com/DalPenny/readmegenerator
-Email: dalpenny@github.io.com
 
 ## Video of Deployed Application
 Watch this [video] (https://drive.google.com/file/d/1U544OObnZpwOjp9kPlgyL3LMRajMYbne/view ) to see how the README Generator works behind the scenes.
