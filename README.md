@@ -44,4 +44,4 @@
 
   ## Screenshot
 
-    https://github.com/DalPenny/readmegenerator/blob/aadf2195a215385b98e548f083092f4d0769c7e4/assets/images/screenshot.jpg
+https://github.com/DalPenny/readmegenerator/blob/aadf2195a215385b98e548f083092f4d0769c7e4/assets/images/screenshot.jpg
