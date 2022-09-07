@@ -71,3 +71,4 @@ Watch this [video] (https://drive.google.com/file/d/1U544OObnZpwOjp9kPlgyL3LMRaj
 
 ## Screenshot of the application
 
+https://github.com/DalPenny/readmegenerator/blob/aadf2195a215385b98e548f083092f4d0769c7e4/assets/images/screenshot.jpg
